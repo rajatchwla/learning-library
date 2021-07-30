@@ -24,7 +24,7 @@ In this lab, you will:
 - Tenancy is whitelisted to be able to use AI Language service
 
 
-## **STEP 1:** Use the Console to analyze text
+## **TASK 1:** Use the Console to analyze text
 
 ### 1: Navigate to OCI Language Service
 
@@ -34,13 +34,13 @@ Log into OCI Cloud Console. Using the Burger Menu on the top left corner, naviga
 
 ### 2: Enter Text
 
-Paste, or enter, your text into the dialog box.
+Paste, or enter your text into the dialog box to analyze.
 ![](./images/text-box.png " ")
 
 
 ### 3: Select the text analysis tools
 
-Select the text analysis tools that you want to use.
+Select one or more of the text analysis tools to analyze your text with the Language service:
 ![](./images/lang-services.png " ")
 
 ### 4: Click Analyze
@@ -53,7 +53,7 @@ You can analyze text by clicking Analyze button.
 You can reset the page by clicking Reset button.
 ![](./images/reset-button.png " ")
 
-## **STEP 2:** Viewing the Results
+## **TASK 2:** Viewing the Results
 
 After you analyze your text, the Language service displays the results by category for the selected tools as follows:
 
@@ -82,7 +82,7 @@ Lists, by confidence percentage, the languages detected.
 Lists the word, identified document category, and the confidence score.
 ![](./images/text-result.png " ")
 
-## **STEP 3:** Viewing the Results in JSON
+## **TASK 3:** Viewing the Results in JSON
 
 You can click Show JSON to view these results in JSON format. 
 ![](./images/show-json-button.png " ")

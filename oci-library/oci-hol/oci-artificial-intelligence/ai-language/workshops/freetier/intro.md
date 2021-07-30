@@ -28,7 +28,7 @@ Identifies the document category and subcategory that the text belongs to.
 
 Explore the Language service within the Oracle Cloud AI service group to perform NLP tasks like detecting languages, extracting key elements, classifying intent, detecting the sentiment, etc., in the text with a few simple steps.
 
-*Estimated Lab Time*: 70 minutes
+*Estimated Lab Time*: 40 minutes
 
 ### Objectives:
 

@@ -26,12 +26,12 @@ The CLI is a small-footprint tool that you can use on its own or with the Consol
 
 
 
-### **STEP 1:** Install CLI
+### **TASK 1:** Install CLI
 
 To install and use the CLI, follow [CLI](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/cliconcepts.htm)
 
 
-### **STEP 2:** AI Language Service Pre-Deployed CLI Command
+### **TASK 2:** AI Language Service Pre-Deployed CLI Command
 
 ```Python
 oci ai language detect-language --text, -? | -h | --help

@@ -26,7 +26,7 @@ Oracle Cloud Infrastructure provides a number of Software Development Kits (SDKs
 
 
 
-### **STEP 1:** SDK Guides
+### **TASK 1:** SDK Guides
 
 Each SDK provides the tools you need to develop an app, including code samples and documentation to create, test, and troubleshoot. In addition, if you want to contribute to the development of the SDKs, they are all open source and available on GitHub.
 
@@ -39,7 +39,7 @@ Each SDK provides the tools you need to develop an app, including code samples a
 
 
 
-### **STEP 2:** AI Language Service SDK Code Sample
+### **TASK 2:** AI Language Service SDK Code Sample
 
 The following are a few examples of accessing those API endpoints.
 
